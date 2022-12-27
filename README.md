@@ -28,7 +28,6 @@
 <image src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white&?"> <br>
 <image src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white&?">
 <image src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white&?">
-<image src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white&?"><br>
 <image src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white&?"><br>
 <image src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white&?">
 </div>
