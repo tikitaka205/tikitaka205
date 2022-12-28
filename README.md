@@ -36,7 +36,8 @@
 </p>
   
 <p align="center">
-<image src="https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&logoColor=white&link=https://tikitaka205.tistory.com/">
+<a href="https://tikitaka205.tistory.com/">
+<image src="https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&logoColor=white">
 </p>
   
 <p align="center">
