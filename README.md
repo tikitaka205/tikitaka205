@@ -16,9 +16,6 @@
 <p align="center">
 <image src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white&"> <image src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white&?"> <image src="https://img.shields.io/badge/Django REST framework-092E20?style=flat&logo=django&logoColor=white&?"> <br>
 <image src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white&?">
-<image src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white&?">
-<image src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&?">
-<image src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoColor=white&?"><br>
 
 
 <div align=center>
@@ -35,7 +32,7 @@
   
 </p>
   
-<p align="center">
+<p align="center" href="https://tikitaka205.tistory.com">
 <image src="https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&logoColor=white&?">
 </p>
   
